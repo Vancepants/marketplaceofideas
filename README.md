@@ -24,12 +24,10 @@ The Marketplace of Ideas aggregates news, data, and discourse on any given proje
 
 And that's just the beginning.
 
-#### **Is this something you want?**
+#### **[Interested? Take our 2 minute, completely anonymous survey!](www.google.com)**
 
 You can contribute now by providing market research data to justify our commitment. No technical experience necessary. 
 
-#### **[Interested? Take our 2 minute, completely anonymous survey!](www.google.com)**
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxO2IF36Lj9Tv_QsJX--aADHOzZaRXCTsSLYXx_k_HTHoTeg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxO2IF36Lj9Tv_QsJX--aADHOzZaRXCTsSLYXx_k_HTHoTeg/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
   
    
