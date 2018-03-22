@@ -30,4 +30,4 @@ You can contribute now by providing market research data to justify our commitme
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScxO2IF36Lj9Tv_QsJX--aADHOzZaRXCTsSLYXx_k_HTHoTeg/viewform?embedded=true" width="760" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
   
-   
+#### Want to learn more? Connect with us at [moiproject.org](https://moiproject.org)
