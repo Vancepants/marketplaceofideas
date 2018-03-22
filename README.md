@@ -27,5 +27,5 @@ And that's just the beginning.
 
 Contribute now by providing market research data. No technical experience necessary. 
 
-#### **[Interested? ](www.google.com)**
+#### **[Interested? Take our brief survey!](www.google.com)**
 
