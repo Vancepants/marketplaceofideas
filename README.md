@@ -25,5 +25,7 @@ Our platform aggregates news, data, and discourse on any given project, facilita
 
 And that's just the beginning.
 
+Contribute now by providing market research data. No technical experience necessary. 
+
 #### [Interested? ](www.google.com)
 
